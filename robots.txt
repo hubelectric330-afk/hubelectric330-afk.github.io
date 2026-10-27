@@ -1,0 +1,13 @@
+# robots.txt — MortgagePro
+# Domain: https://hubelectric330-afk.github.io
+
+User-agent: *
+Allow: /
+
+# Block source files (code files, not content)
+Disallow: /sw.js
+Disallow: /mortgage-pro/script.js
+Disallow: /mortgage-pro/styles.css
+
+# Sitemap location
+Sitemap: https://hubelectric330-afk.github.io/sitemap.xml
